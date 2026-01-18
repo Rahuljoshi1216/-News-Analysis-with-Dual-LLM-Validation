@@ -1,0 +1,8 @@
+# Environment files
+.env
+myenv/
+__pycache__/
+*.pyc
+
+# Output files
+output/
