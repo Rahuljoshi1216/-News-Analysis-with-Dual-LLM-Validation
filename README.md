@@ -78,6 +78,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 OPENROUTER_API_KEY=your_key
+
 NEWSAPI_KEY=your_key
 
 
