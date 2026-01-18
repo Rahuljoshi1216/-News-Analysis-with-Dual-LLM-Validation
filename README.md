@@ -16,6 +16,7 @@ The project demonstrates a real-world AI workflow with modular design, error han
 
 ## Project Structure
 
+```
 news-analyzer/
 ├── main.py
 ├── news_fetcher.py
@@ -31,8 +32,8 @@ news-analyzer/
 │   └── final_report.md
 └── tests/
     └── test_analyzer.py
+```
 
----
 
 ## Features
 
